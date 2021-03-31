@@ -8,7 +8,7 @@ Hodina na procvičení responzivity a media queries
 3. Tento repozitář si ze svého Githubu potom naklonuj k sobě na disk.   
 
 Zkopíruj si odkaz ze záložky **clone** a potom v terminálu ve vybrané složce spusť příkaz `git clone ODKAZ`.   
-Například `git clone https://github.com/marketaanezka/Specificita-cviceni.git`.   
+Například `git clone https://github.com/marketaanezka/Responsivity.git`.   
 Místo `marketaanezka` budeš mít svoje Github uživatelské jméno.   
 
 4. Tady už můžeš přidávat, commitovat a pushovat změny a uvidíš je na svém Githubu.   
